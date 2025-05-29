@@ -17,12 +17,12 @@ An intelligent, autonomous Python-based AI agent capable of performing complex t
 ## 📁 Project Structure
 
 PythonAIAgent/
-├── agents/ # Different agent modules and behaviors
-├── tools/ # Reusable tools and utilities
-├── config/ # API keys and configuration (use .env)
-├── main.py # Entry point for the agent
-├── requirements.txt # Dependencies
-└── README.md
+-agents/ # Different agent modules and behaviors
+-tools/ # Reusable tools and utilities
+-config/ # API keys and configuration (use .env)
+-main.py # Entry point for the agent
+-requirements.txt # Dependencies
+-README.md
 
 
 
